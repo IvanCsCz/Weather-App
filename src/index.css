@@ -1,0 +1,16 @@
+:root{
+  --white: #fff;
+  --background: #f3f4f6;
+  --primary: #ffd387;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body{
+  font-family: 'Outfit', sans-serif;
+  background-color: var(--background);
+  height: 100vh;
+  font-size: 2rem;
+}
