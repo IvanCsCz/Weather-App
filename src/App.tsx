@@ -1,6 +1,6 @@
 import style from './App.module.css'
 import Form from './components/Form/Form'
-import useWeather from './components/hooks/useWeather'
+import useWeather from './hooks/useWeather'
 
 function App() {
 

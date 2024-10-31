@@ -1,5 +1,5 @@
 import axios from "axios"
-import { SearchType } from "../../types"
+import { SearchType } from "../types"
 
 export default function useWeather() {
 
